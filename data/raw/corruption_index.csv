@@ -1,0 +1,183 @@
+country_name,country_code,cpi_score,rank
+Denmark,DK,89,1
+Finland,FI,88,2
+Singapore,SG,84,3
+New Zealand,NZ,81,4
+Norway,NO,81,4
+Sweden,SE,80,6
+Switzerland,CH,80,6
+Luxembourg,LU,78,8
+Netherlands,NL,78,8
+Germany,DE,77,10
+Iceland,IS,77,10
+Australia,AU,76,12
+Estonia,EE,76,12
+Hong Kong,HK,76,12
+Ireland,IE,76,12
+Canada,CA,75,16
+Uruguay,UY,73,17
+Bhutan,BT,71,18
+Japan,JP,71,18
+United Kingdom,GB,70,20
+Austria,AT,69,21
+Belgium,BE,69,21
+United Arab Emirates,AE,69,21
+Barbados,BB,68,24
+Seychelles,SC,68,24
+Taiwan,TW,68,24
+France,FR,66,27
+Lithuania,LT,65,28
+Bahamas,BS,64,29
+United States of America,US,64,29
+Brunei Darussalam,BN,63,31
+Chile,CL,63,31
+South Korea,KR,63,31
+Saint Vincent and the Grenadines,VC,63,31
+Cabo Verde,CV,62,35
+Israel,IL,62,35
+Dominica,DM,60,37
+Latvia,LV,60,37
+Czechia,CZ,59,39
+Saint Lucia,LC,59,39
+Botswana,BW,58,41
+Qatar,QA,58,41
+Rwanda,RW,58,41
+Slovenia,SI,58,41
+Saudi Arabia,SA,57,45
+Costa Rica,CR,56,46
+Grenada,GD,56,46
+Portugal,PT,56,46
+Cyprus,CY,55,49
+Fiji,FJ,55,49
+Spain,ES,55,49
+Italy,IT,53,52
+Poland,PL,53,52
+Malaysia,MY,52,54
+Oman,OM,52,54
+Bahrain,BH,50,56
+Georgia,GE,50,56
+Greece,GR,50,56
+Jordan,JO,50,56
+Malta,MT,49,60
+Mauritius,MU,48,61
+Slovakia,SK,48,61
+Croatia,HR,47,63
+Vanuatu,VU,47,63
+Armenia,AM,46,65
+Kuwait,KW,46,65
+Montenegro,ME,46,65
+Namibia,NA,46,65
+Senegal,SN,46,65
+Benin,BJ,45,70
+Romania,RO,45,70
+Sao Tome and Principe,ST,45,70
+Jamaica,JM,44,73
+Solomon Islands,SB,44,73
+Timor-Leste,TL,44,73
+China,CN,43,76
+Cote d'Ivoire,CI,43,76
+Ghana,GH,43,76
+Kosovo,XK,43,76
+Moldova,MD,42,80
+South Africa,ZA,41,81
+Trinidad and Tobago,TT,41,81
+Vietnam,VN,41,81
+Bulgaria,BG,40,84
+Burkina Faso,BF,40,84
+Cuba,CU,40,84
+Guyana,GY,40,84
+Hungary,HU,40,84
+North Macedonia,MK,40,84
+Tanzania,TZ,40,84
+Albania,AL,39,91
+India,IN,39,91
+Maldives,MV,39,91
+Morocco,MA,39,91
+Tunisia,TN,39,91
+Ethiopia,ET,38,96
+Kazakhstan,KZ,38,96
+Suriname,SR,38,96
+Colombia,CO,37,99
+Dominican Republic,DO,37,99
+Gambia,GM,37,99
+Lesotho,LS,37,99
+Zambia,ZM,37,99
+Argentina,AR,36,104
+Belize,BZ,36,104
+Ukraine,UA,36,104
+Brazil,BR,35,107
+Sri Lanka,LK,35,107
+Algeria,DZ,34,109
+Bosnia and Herzegovina,BA,34,109
+Indonesia,ID,34,109
+Laos,LA,34,109
+Malawi,MW,34,109
+Nepal,NP,34,109
+Sierra Leone,SL,34,109
+Ecuador,EC,33,116
+Panama,PA,33,116
+Serbia,RS,33,116
+Thailand,TH,33,116
+Angola,AO,32,120
+El Salvador,SV,32,120
+Philippines,PH,32,120
+Togo,TG,32,120
+Belarus,BY,31,124
+Djibouti,DJ,31,124
+Mongolia,MN,31,124
+Niger,NE,31,124
+Turkey,TR,31,124
+Uzbekistan,UZ,31,124
+Azerbaijan,AZ,30,130
+Egypt,EG,30,130
+Kenya,KE,30,130
+Mauritania,MR,30,130
+Peru,PE,30,130
+Gabon,GA,29,135
+Bolivia,BO,28,136
+Iraq,IQ,28,136
+Liberia,LR,28,136
+Mali,ML,28,136
+Pakistan,PK,28,136
+Mexico,MX,27,141
+Cameroon,CM,26,142
+Guatemala,GT,26,142
+Guinea,GN,26,142
+Kyrgyzstan,KG,26,142
+Nigeria,NG,26,142
+Papua New Guinea,PG,26,142
+Madagascar,MG,25,148
+Uganda,UG,25,148
+Bangladesh,BD,24,150
+Central African Republic,CF,24,150
+Paraguay,PY,24,150
+Congo,CG,23,153
+Eswatini,SZ,23,153
+Iran,IR,23,153
+Lebanon,LB,23,153
+Chad,TD,22,157
+Honduras,HN,22,157
+Russia,RU,22,157
+Zimbabwe,ZW,22,157
+Guinea Bissau,GW,21,161
+Mozambique,MZ,21,161
+Cambodia,KH,20,163
+Comoros,KM,20,163
+Democratic Republic of the Congo,CD,20,163
+Tajikistan,TJ,19,166
+Burundi,BI,17,167
+Turkmenistan,TM,17,167
+Afghanistan,AF,16,169
+Haiti,HT,16,169
+Myanmar,MM,16,169
+Equatorial Guinea,GQ,15,172
+North Korea,KP,15,172
+Syria,SY,15,172
+Nicaragua,NI,14,175
+Sudan,SD,14,175
+Eritrea,ER,13,177
+Libya,LY,13,177
+Yemen,YE,13,177
+Venezuela,VE,10,180
+Somalia,SO,9,181
+South Sudan,SS,9,181

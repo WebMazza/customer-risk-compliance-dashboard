@@ -1,0 +1,250 @@
+country_name,country_code,continent,income_level,cpi_score,fatf_risk
+Afghanistan,AF,Asia,Low income,16.0,Low
+Åland Islands,AX,Europe,Unidentified,Unidentified,Low
+Albania,AL,Europe,Upper middle income,39.0,Low
+Algeria,DZ,Africa,Upper middle income,34.0,High
+American Samoa,AS,Oceania,Unidentified,Unidentified,Low
+Andorra,AD,Europe,High income,Unidentified,Low
+Angola,AO,Africa,Lower middle income,32.0,High
+Anguilla,AI,Americas,Unidentified,Unidentified,Low
+Antarctica,AQ,Antarctica,Unidentified,Unidentified,Low
+Antigua and Barbuda,AG,Americas,High income,Unidentified,Low
+Argentina,AR,Americas,Upper middle income,36.0,Low
+Armenia,AM,Asia,Upper middle income,46.0,Low
+Aruba,AW,Americas,Unidentified,Unidentified,Low
+Australia,AU,Oceania,High income,76.0,Low
+Austria,AT,Europe,High income,69.0,Low
+Azerbaijan,AZ,Asia,Upper middle income,30.0,Low
+Bahamas,BS,Americas,High income,64.0,Low
+Bahrain,BH,Asia,High income,50.0,Low
+Bangladesh,BD,Asia,Lower middle income,24.0,Low
+Barbados,BB,Americas,High income,68.0,Low
+Belarus,BY,Europe,Upper middle income,31.0,Low
+Belgium,BE,Europe,High income,69.0,Low
+Belize,BZ,Americas,Upper middle income,36.0,Low
+Benin,BJ,Africa,Lower middle income,45.0,Low
+Bermuda,BM,Americas,Unidentified,Unidentified,Low
+Bhutan,BT,Asia,Lower middle income,71.0,Low
+"Bolivia, Plurinational State of",BO,Americas,Lower middle income,28.0,High
+"Bonaire, Sint Eustatius and Saba",BQ,Americas,Unidentified,Unidentified,Low
+Bosnia and Herzegovina,BA,Europe,Upper middle income,34.0,High
+Botswana,BW,Africa,Upper middle income,58.0,Low
+Bouvet Island,BV,Americas,Unidentified,Unidentified,Low
+Brazil,BR,Americas,Upper middle income,35.0,Low
+British Indian Ocean Territory,IO,Africa,Unidentified,Unidentified,Low
+Brunei Darussalam,BN,Asia,High income,63.0,Low
+Bulgaria,BG,Europe,Upper middle income,40.0,Low
+Burkina Faso,BF,Africa,Low income,40.0,High
+Burundi,BI,Africa,Low income,17.0,Low
+Cabo Verde,CV,Africa,Lower middle income,62.0,Low
+Cambodia,KH,Asia,Lower middle income,20.0,Low
+Cameroon,CM,Africa,Lower middle income,26.0,High
+Canada,CA,Americas,High income,75.0,Low
+Cayman Islands,KY,Americas,Unidentified,Unidentified,Low
+Central African Republic,CF,Africa,Low income,24.0,Low
+Chad,TD,Africa,Low income,22.0,Low
+Chile,CL,Americas,High income,63.0,Low
+China,CN,Asia,Upper middle income,43.0,Low
+Christmas Island,CX,Oceania,Unidentified,Unidentified,Low
+Cocos (Keeling) Islands,CC,Oceania,Unidentified,Unidentified,Low
+Colombia,CO,Americas,Upper middle income,37.0,Low
+Comoros,KM,Africa,Lower middle income,20.0,Low
+Congo,CG,Africa,Lower middle income,23.0,High
+"Congo, Democratic Republic of the",CD,Africa,Unidentified,20.0,High
+Cook Islands,CK,Oceania,Unidentified,Unidentified,Low
+Costa Rica,CR,Americas,Upper middle income,56.0,Low
+Côte d'Ivoire,CI,Africa,Lower middle income,43.0,High
+Croatia,HR,Europe,High income,47.0,Low
+Cuba,CU,Americas,Upper middle income,40.0,High
+Curaçao,CW,Americas,Unidentified,Unidentified,Low
+Cyprus,CY,Asia,High income,55.0,Low
+Czechia,CZ,Europe,High income,59.0,Low
+Denmark,DK,Europe,High income,89.0,Low
+Djibouti,DJ,Africa,Lower middle income,31.0,Low
+Dominica,DM,Americas,Upper middle income,60.0,Low
+Dominican Republic,DO,Americas,Upper middle income,37.0,Low
+Ecuador,EC,Americas,Upper middle income,33.0,Low
+Egypt,EG,Africa,Lower middle income,30.0,Low
+El Salvador,SV,Americas,Lower middle income,32.0,Low
+Equatorial Guinea,GQ,Africa,Upper middle income,15.0,Low
+Eritrea,ER,Africa,Low income,13.0,Low
+Estonia,EE,Europe,High income,76.0,Low
+Eswatini,SZ,Africa,Lower middle income,23.0,Low
+Ethiopia,ET,Africa,Low income,38.0,Low
+Falkland Islands (Malvinas),FK,Americas,Unidentified,Unidentified,Low
+Faroe Islands,FO,Europe,Unidentified,Unidentified,Low
+Fiji,FJ,Oceania,Upper middle income,55.0,Low
+Finland,FI,Europe,High income,88.0,Low
+France,FR,Europe,High income,66.0,Low
+French Guiana,GF,Americas,Unidentified,Unidentified,Low
+French Polynesia,PF,Oceania,Unidentified,Unidentified,Low
+French Southern Territories,TF,Africa,Unidentified,Unidentified,Low
+Gabon,GA,Africa,Upper middle income,29.0,Low
+Gambia,GM,Africa,Low income,37.0,Low
+Georgia,GE,Asia,Upper middle income,50.0,Low
+Germany,DE,Europe,High income,77.0,Low
+Ghana,GH,Africa,Lower middle income,43.0,Low
+Gibraltar,GI,Europe,Unidentified,Unidentified,Low
+Greece,GR,Europe,High income,50.0,Low
+Greenland,GL,Americas,Unidentified,Unidentified,Low
+Grenada,GD,Americas,Upper middle income,56.0,Low
+Guadeloupe,GP,Americas,Unidentified,Unidentified,Low
+Guam,GU,Oceania,Unidentified,Unidentified,Low
+Guatemala,GT,Americas,Upper middle income,26.0,Low
+Guernsey,GG,Europe,Unidentified,Unidentified,Low
+Guinea,GN,Africa,Low income,26.0,Low
+Guinea-Bissau,GW,Africa,Low income,21.0,Low
+Guyana,GY,Americas,High income,40.0,Low
+Haiti,HT,Americas,Low income,16.0,High
+Heard Island and McDonald Islands,HM,Oceania,Unidentified,Unidentified,Low
+Holy See,VA,Europe,Unidentified,Unidentified,Low
+Honduras,HN,Americas,Lower middle income,22.0,Low
+Hong Kong,HK,Asia,High income,76.0,Low
+Hungary,HU,Europe,High income,40.0,Low
+Iceland,IS,Europe,High income,77.0,Low
+India,IN,Asia,Lower middle income,39.0,Low
+Indonesia,ID,Asia,Lower middle income,34.0,Low
+Iran,IR,Asia,Upper middle income,23.0,High
+Iraq,IQ,Asia,Upper middle income,28.0,Low
+Ireland,IE,Europe,High income,76.0,Low
+Isle of Man,IM,Europe,Unidentified,Unidentified,Low
+Israel,IL,Asia,High income,62.0,Low
+Italy,IT,Europe,High income,53.0,Low
+Jamaica,JM,Americas,Upper middle income,44.0,Low
+Japan,JP,Asia,High income,71.0,Low
+Jersey,JE,Europe,Unidentified,Unidentified,Low
+Jordan,JO,Asia,Upper middle income,50.0,Low
+Kazakhstan,KZ,Asia,Upper middle income,38.0,Low
+Kenya,KE,Africa,Lower middle income,30.0,High
+Kiribati,KI,Oceania,Lower middle income,Unidentified,Low
+North Korea,KP,Asia,Not available,15.0,High
+South Korea,KR,Asia,High income,63.0,Low
+Kuwait,KW,Asia,High income,46.0,Low
+Kyrgyzstan,KG,Asia,Lower middle income,26.0,Low
+Lao People's Democratic Republic,LA,Asia,Lower middle income,34.0,Low
+Latvia,LV,Europe,High income,60.0,Low
+Lebanon,LB,Asia,Upper middle income,23.0,High
+Lesotho,LS,Africa,Lower middle income,37.0,Low
+Liberia,LR,Africa,Low income,28.0,Low
+Libya,LY,Africa,Upper middle income,13.0,Low
+Liechtenstein,LI,Europe,High income,Unidentified,Low
+Lithuania,LT,Europe,High income,65.0,Low
+Luxembourg,LU,Europe,High income,78.0,Low
+Macao,MO,Asia,Unidentified,Unidentified,Low
+Madagascar,MG,Africa,Low income,25.0,Low
+Malawi,MW,Africa,Low income,34.0,Low
+Malaysia,MY,Asia,Upper middle income,52.0,Low
+Maldives,MV,Asia,Upper middle income,39.0,Low
+Mali,ML,Africa,Low income,28.0,Low
+Malta,MT,Europe,High income,49.0,Low
+Marshall Islands,MH,Oceania,Not available,Unidentified,Low
+Martinique,MQ,Americas,Unidentified,Unidentified,Low
+Mauritania,MR,Africa,Lower middle income,30.0,Low
+Mauritius,MU,Africa,Upper middle income,48.0,Low
+Mayotte,YT,Africa,Unidentified,Unidentified,Low
+Mexico,MX,Americas,Upper middle income,27.0,Low
+"Micronesia, Federated States of",FM,Oceania,Not available,Unidentified,Low
+"Moldova, Republic of",MD,Europe,Upper middle income,42.0,Low
+Monaco,MC,Europe,Unidentified,Unidentified,High
+Mongolia,MN,Asia,Lower middle income,31.0,Low
+Montenegro,ME,Europe,Upper middle income,46.0,Low
+Montserrat,MS,Americas,Unidentified,Unidentified,Low
+Morocco,MA,Africa,Lower middle income,39.0,Low
+Mozambique,MZ,Africa,Low income,21.0,High
+Myanmar,MM,Asia,Lower middle income,16.0,High
+Namibia,NA,Africa,Upper middle income,46.0,High
+Nauru,NR,Oceania,Unidentified,Unidentified,Low
+Nepal,NP,Asia,Lower middle income,34.0,High
+Netherlands,NL,Europe,High income,78.0,Low
+New Caledonia,NC,Oceania,Unidentified,Unidentified,Low
+New Zealand,NZ,Oceania,High income,81.0,Low
+Nicaragua,NI,Americas,Lower middle income,14.0,Low
+Niger,NE,Africa,Low income,31.0,Low
+Nigeria,NG,Africa,Lower middle income,26.0,High
+Niue,NU,Oceania,Unidentified,Unidentified,Low
+Norfolk Island,NF,Oceania,Unidentified,Unidentified,Low
+North Macedonia,MK,Europe,Upper middle income,40.0,Low
+Northern Mariana Islands,MP,Oceania,Unidentified,Unidentified,Low
+Norway,NO,Europe,High income,81.0,Low
+Oman,OM,Asia,High income,52.0,Low
+Pakistan,PK,Asia,Lower middle income,28.0,Low
+Palau,PW,Oceania,Not available,Unidentified,Low
+"Palestine, State of",PS,Asia,Unidentified,Unidentified,Low
+Panama,PA,Americas,Upper middle income,33.0,Low
+Papua New Guinea,PG,Oceania,Lower middle income,26.0,Low
+Paraguay,PY,Americas,Upper middle income,24.0,Low
+Peru,PE,Americas,Upper middle income,30.0,Low
+Philippines,PH,Asia,Lower middle income,32.0,Low
+Pitcairn,PN,Oceania,Unidentified,Unidentified,Low
+Poland,PL,Europe,High income,53.0,Low
+Portugal,PT,Europe,High income,56.0,Low
+Puerto Rico,PR,Americas,Unidentified,Unidentified,Low
+Qatar,QA,Asia,High income,58.0,Low
+Réunion,RE,Africa,Unidentified,Unidentified,Low
+Romania,RO,Europe,High income,45.0,Low
+Russian Federation,RU,Europe,Upper middle income,22.0,Low
+Rwanda,RW,Africa,Low income,58.0,Low
+Saint Barthélemy,BL,Americas,Unidentified,Unidentified,Low
+"Saint Helena, Ascension and Tristan da Cunha",SH,Africa,Unidentified,Unidentified,Low
+Saint Kitts and Nevis,KN,Americas,Unidentified,Unidentified,Low
+Saint Lucia,LC,Americas,Upper middle income,59.0,Low
+Saint Martin (French part),MF,Americas,Unidentified,Unidentified,Low
+Saint Pierre and Miquelon,PM,Americas,Unidentified,Unidentified,Low
+Saint Vincent and the Grenadines,VC,Americas,Unidentified,63.0,Low
+Samoa,WS,Oceania,Upper middle income,Unidentified,Low
+San Marino,SM,Europe,Unidentified,Unidentified,Low
+Sao Tome and Principe,ST,Africa,Unidentified,45.0,Low
+Saudi Arabia,SA,Asia,High income,57.0,Low
+Senegal,SN,Africa,Lower middle income,46.0,Low
+Serbia,RS,Europe,Upper middle income,33.0,Low
+Seychelles,SC,Africa,High income,68.0,Low
+Sierra Leone,SL,Africa,Low income,34.0,Low
+Singapore,SG,Asia,High income,84.0,Low
+Sint Maarten (Dutch part),SX,Americas,Unidentified,Unidentified,Low
+Slovakia,SK,Europe,High income,48.0,Low
+Slovenia,SI,Europe,High income,58.0,Low
+Solomon Islands,SB,Oceania,Lower middle income,44.0,Low
+Somalia,SO,Africa,Low income,9.0,Low
+South Africa,ZA,Africa,Upper middle income,41.0,High
+South Georgia and the South Sandwich Islands,GS,Americas,Unidentified,Unidentified,Low
+South Sudan,SS,Africa,Low income,9.0,High
+Spain,ES,Europe,High income,55.0,Low
+Sri Lanka,LK,Asia,Lower middle income,35.0,Low
+Sudan,SD,Africa,Low income,14.0,Low
+Suriname,SR,Americas,Upper middle income,38.0,Low
+Svalbard and Jan Mayen,SJ,Europe,Unidentified,Unidentified,Low
+Sweden,SE,Europe,High income,80.0,Low
+Switzerland,CH,Europe,High income,80.0,Low
+Syrian Arab Republic,SY,Asia,Low income,15.0,High
+"Taiwan, Province of China",TW,Asia,Unidentified,68.0,Low
+Tajikistan,TJ,Asia,Lower middle income,19.0,Low
+"Tanzania, United Republic of",TZ,Africa,Lower middle income,40.0,High
+Thailand,TH,Asia,Upper middle income,33.0,Low
+Timor-Leste,TL,Asia,Lower middle income,44.0,Low
+Togo,TG,Africa,Low income,32.0,Low
+Tokelau,TK,Oceania,Unidentified,Unidentified,Low
+Tonga,TO,Oceania,Upper middle income,Unidentified,Low
+Trinidad and Tobago,TT,Americas,High income,41.0,Low
+Tunisia,TN,Africa,Lower middle income,39.0,Low
+Türkiye,TR,Asia,Upper middle income,31.0,Low
+Turkmenistan,TM,Asia,Upper middle income,17.0,Low
+Turks and Caicos Islands,TC,Americas,Unidentified,Unidentified,Low
+Tuvalu,TV,Oceania,Not available,Unidentified,Low
+Uganda,UG,Africa,Low income,25.0,Low
+Ukraine,UA,Europe,Lower middle income,36.0,Low
+United Arab Emirates,AE,Asia,High income,69.0,Low
+United Kingdom of Great Britain and Northern Ireland,GB,Europe,High income,70.0,Low
+United States of America,US,Americas,High income,64.0,Low
+United States Minor Outlying Islands,UM,Oceania,Unidentified,Unidentified,Low
+Uruguay,UY,Americas,High income,73.0,Low
+Uzbekistan,UZ,Asia,Lower middle income,31.0,Low
+Vanuatu,VU,Oceania,Lower middle income,47.0,Low
+"Venezuela, Bolivarian Republic of",VE,Americas,Lower middle income,10.0,High
+Vietnam,VN,Asia,Lower middle income,41.0,High
+Virgin Islands (British),VG,Americas,Unidentified,Unidentified,High
+Virgin Islands (U.S.),VI,Americas,Unidentified,Unidentified,Low
+Wallis and Futuna,WF,Oceania,Unidentified,Unidentified,Low
+Western Sahara,EH,Africa,Unidentified,Unidentified,Low
+Yemen,YE,Asia,Low income,13.0,High
+Zambia,ZM,Africa,Lower middle income,37.0,Low
+Zimbabwe,ZW,Africa,Lower middle income,22.0,Low
